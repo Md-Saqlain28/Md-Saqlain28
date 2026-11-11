@@ -1,7 +1,7 @@
 # Hi there, I'm Mohammed Saqlain 👋 
 
 [![GitHub followers](https://img.shields.io/github/followers/Md-Saqlain28?style=social)](https://github.com/Md-Saqlain28)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/mohammed-saqlain-a790b3344/))
 [![Author Badge](https://img.shields.io/badge/eBook-The%20AI%20Edge-purple?style=flat&logo=gumroad)](https://saqlain3184.gumroad.com/l/paxjnm)
 
 🚀 **Computer Science & Engineering Student** at Sir M. Visvesvaraya Institute of Technology (Sir MVIT), Bengaluru.  
