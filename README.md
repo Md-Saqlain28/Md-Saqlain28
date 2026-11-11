@@ -43,9 +43,7 @@
 
 ## 📊 GitHub Stats
 
-![Mohammed Saqlain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Saqlain28&show_icons=true&theme=dark)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Saqlain28&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Md-Saqlain28&theme=dark)
 
 ---
 
