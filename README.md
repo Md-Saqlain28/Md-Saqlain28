@@ -21,6 +21,10 @@
 
 ## 💻 Key Featured Projects
 
+### 🏷️ [Today's Price](https://github.com/Md-Saqlain28/Today-s-Price)
+- A dynamic web application for tracking and displaying real-time daily commodity and product prices.
+- Built to deliver up-to-date market pricing insights with a clean, responsive user interface.
+
 ### 🏥 [Hospital Management System](https://github.com/Md-Saqlain28)
 - A full-stack web application designed for healthcare coordination, appointment booking, and patient records.
 - Built using **React, Vite, Express.js, PostgreSQL (Neon), and MongoDB** with custom UI components and JWT security.
