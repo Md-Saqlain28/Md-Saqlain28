@@ -43,10 +43,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Saqlain28&show_icons=true&theme=dark" alt="Mohammed Saqlain's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Saqlain28&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
-</p>
+![Mohammed Saqlain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Saqlain28&show_icons=true&theme=dark)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Saqlain28&layout=compact&theme=dark)
 
 ---
 
