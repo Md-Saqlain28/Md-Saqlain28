@@ -42,7 +42,7 @@
 
 📚 **Author of "The AI Edge: The Engineering Student's AI Toolkit for Smart Success"**  
 *A self-published guide on leveraging artificial intelligence tools for practical academic success, smart workflows, and efficient learning strategies for engineering students.*
-👉 **Get your copy:** [Gumroad](https://saqlain3184.gumroad.com/l/paxjnm) | [Amazon Kindle](https://www.amazon.in/AI-Edge-Engineering-Students-Technical-ebook/dp/B0HK53FFX2)*
+👉 **Get your copy:** [Gumroad](https://saqlain3184.gumroad.com/l/paxjnm) | [Amazon Kindle](https://www.amazon.in/AI-Edge-Engineering-Students-Technical-ebook/dp/B0HK53FFX2)
 
 ---
 
