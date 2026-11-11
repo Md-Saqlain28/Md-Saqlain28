@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Md-Saqlain28?style=social)](https://github.com/Md-Saqlain28)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
-[![Author Badge](https://img.shields.io/badge/eBook-The%20AI%20Edge-purple?style=flat&logo=amazon)](https://amazon.com)
+[![Author Badge](https://img.shields.io/badge/eBook-The%20AI%20Edge-purple?style=flat&logo=gumroad)](https://saqlain3184.gumroad.com/l/paxjnm)
 
 🚀 **Computer Science & Engineering Student** at Sir M. Visvesvaraya Institute of Technology (Sir MVIT), Bengaluru.  
 💻 Passionate **Full-Stack Developer** & **Author** creating efficient web platforms, algorithmic route optimizers, and student success toolkits.
@@ -42,6 +42,7 @@
 
 📚 **Author of "The AI Edge: The Engineering Student's AI Toolkit for Smart Success"**  
 *A self-published guide on leveraging artificial intelligence tools for practical academic success, smart workflows, and efficient learning strategies for engineering students.*
+👉 **Get your copy:** [Gumroad](https://saqlain3184.gumroad.com/l/paxjnm) | [Amazon Kindle](https://www.amazon.in/AI-Edge-Engineering-Students-Technical-ebook/dp/B0HK53FFX2)*
 
 ---
 
