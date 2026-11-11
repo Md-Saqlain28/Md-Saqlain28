@@ -54,5 +54,6 @@
 
 ## 📫 Connect with Me
 
+- 💼 **LinkedIn:** [Mohammed Saqlain](https://www.linkedin.com/in/mohammed-saqlain-a790b3344/)
 - 🌐 **GitHub:** [@Md-Saqlain28](https://github.com/Md-Saqlain28)
 - 📍 **Location:** Bengaluru, Karnataka, India
